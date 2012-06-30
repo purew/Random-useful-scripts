@@ -1,5 +1,8 @@
 #/usr/bin/env python
 # Create or update a mirrored folder with (resized) pictures
+#
+# By Anders Bennehag, anders@bennehag.com
+#
 
 originalDir = "/home/anders/Blandat/Pictures/Yearly/"
 cloneDir = "/home/anders/Blandat/Pictures/Yearly_720p/"
